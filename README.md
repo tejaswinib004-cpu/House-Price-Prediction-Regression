@@ -131,7 +131,10 @@ streamlit run app.py
 The model predicts the estimated sale price of a house based on user input features.
 
 ---
+## Live App
+Streamlit Deployment:https://tejaswinib004-cpu-house-price-prediction-regression-app-gj6tmp.streamlit.app/
 
 ## Author
 
 Tejaswini Bollaboina
+
